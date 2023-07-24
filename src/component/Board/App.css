@@ -1,0 +1,17 @@
+.board {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .cell {
+    border: 1px solid black;
+  }
+  .titleb{
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+ 
